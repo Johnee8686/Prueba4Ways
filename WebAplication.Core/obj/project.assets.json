@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Core\\WebAplication.Core.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Core\\WebAplication.Core.csproj",
       "projectName": "WebAplication.Core",
-      "projectPath": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Core\\WebAplication.Core.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Core\\WebAplication.Core.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Core\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

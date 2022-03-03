@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebApplicationTest4ways.csproj": {}
+    "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebApplicationTest4ways\\WebApplicationTest4ways.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Core\\WebAplication.Core.csproj": {
+    "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Core\\WebAplication.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Core\\WebAplication.Core.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Core\\WebAplication.Core.csproj",
         "projectName": "WebAplication.Core",
-        "projectPath": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Core\\WebAplication.Core.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Core\\WebAplication.Core.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Core\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Data\\WebAplication.Data.csproj": {
+    "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Data\\WebAplication.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Data\\WebAplication.Data.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Data\\WebAplication.Data.csproj",
         "projectName": "WebAplication.Data",
-        "projectPath": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Data\\WebAplication.Data.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Data\\WebAplication.Data.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Data\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -96,8 +96,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Core\\WebAplication.Core.csproj": {
-                "projectPath": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Core\\WebAplication.Core.csproj"
+              "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Core\\WebAplication.Core.csproj": {
+                "projectPath": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Core\\WebAplication.Core.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebApplicationTest4ways.csproj": {
+    "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebApplicationTest4ways\\WebApplicationTest4ways.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebApplicationTest4ways.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebApplicationTest4ways\\WebApplicationTest4ways.csproj",
         "projectName": "WebApplicationTest4ways",
-        "projectPath": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebApplicationTest4ways.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebApplicationTest4ways\\WebApplicationTest4ways.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebApplicationTest4ways\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebApplicationTest4ways\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -185,8 +185,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Data\\WebAplication.Data.csproj": {
-                "projectPath": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebAplication.Data\\WebAplication.Data.csproj"
+              "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Data\\WebAplication.Data.csproj": {
+                "projectPath": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebAplication.Data\\WebAplication.Data.csproj"
               }
             }
           }

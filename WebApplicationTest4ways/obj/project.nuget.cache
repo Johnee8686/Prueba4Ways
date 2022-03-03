@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WQq5zcHC6WNg8dfVw4fD33GSLLe9DgCOI2qQ7lS5dZtMyBel+hddGhr9i9ihvBqHflvPvRBnrOpDBug2WlZVyg==",
+  "dgSpecHash": "xhOaIOwDobyDhU8Etf84v+q/43lSOhrvx0LP4OoItYHE8AzEP6i2F3xh/yHTZeZXLcaxpWHVkD9hw8MIam8D+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Desktop\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebApplicationTest4ways\\WebApplicationTest4ways.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\4ways\\Prueba4Ways\\WebApplicationTest4ways\\WebApplicationTest4ways.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\bogus\\34.0.1\\bogus.34.0.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
